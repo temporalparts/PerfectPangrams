@@ -28,9 +28,8 @@ Node ```52739``` is decomposed twice, whereas its complement ```532608``` is dec
 3. bolk, jap, nth
 ```
 
-The trees are also summarized to improve readability and minimize redudancies.
+The trees are also summarized to improve readability and minimize redudancies. Also from the unix dictionary output:
 
-Also from the unix dictionary output:
 ```
 67108863->33554173|33554690
    33554173->2616|532608|1508353|2113600|4198404|25198592====>
